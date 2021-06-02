@@ -8,7 +8,7 @@ int main()
 
 data d=tue;
 
-printf("%d \n",d);
+printf("raghuram said %d \n",d);
 
 
 return 0;
