@@ -9,7 +9,7 @@ int main()
 data d=tue;
 
 printf("raghuram said %d \n",d);
-
+printf("result\n");
 
 return 0;
 }
