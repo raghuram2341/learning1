@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-typedef enum{mon,tue,wed}data;
+typedef enum{mon,tue=5,wed}data;
 
 
 int main()
